@@ -10,3 +10,20 @@
 .oui-portfolio-page .oui-box.oui-flex.oui-flex-nowrap > div:nth-child(2).oui-box.oui-flex.oui-justify-start.oui-flex-nowrap.oui-relative {
   display: none;
 }
+
+.oui-scaffold-footer-powered-by {
+  display: none;
+}
+
+.oui-scaffold-footer .oui-h-\[18px\].oui-border-line-12:not(.oui-px-1) {
+  display: none;
+}
+
+.oui-scaffold-footer .app-footer-tradingview {
+  position: fixed;
+  right: 12px;
+  bottom: 0;
+  height: 28px;
+  display: flex;
+  align-items: center;
+}
